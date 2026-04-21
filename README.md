@@ -3,7 +3,7 @@
 * I'm Mauro Emiliano (EmiMau) 🇲🇽🏳️‍🌈 , a Computer Science grad student and a big fan of pop culture and logic. 👨‍💻📔
 * I solve puzzles for hobbie, enjoy participating in any kind of activity that shows me another vision of the world and love anything that has rules yet to be discovered. 🔎🐙
 * I think that the _how is it done_ is important, always. 🏝️🏃‍♂️
-* Functional programming is one of the best things that could happend to code. ✨
+* Functional programming is one of the best things that could had happend to code. ✨
 
 I have an interest in programming lenguages theory, logic and formal methods. Because of that, I have interest for languages that have a strong type system (such as **Haskell**), logic programming (**PROLOG**) and proof asistants (**Coq**/**LEAND**). I do my best to understand the foundations of critic software and provide a framework for proofs within programs. I also respect the labor on optimization and security made by languages that access memory like **C** and **Rust**; I'm aware that well-verified code can be more optimal while taking less risk.
 I'd done code on **CSS/Python/HTML/React**/etc. because that's what's expected from a C.S. student, but I rathe work with functional languages, I don't personally think that I'm bad with those, tho.
