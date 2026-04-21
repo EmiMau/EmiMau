@@ -5,7 +5,7 @@
 * I think that the _how_ is important, always. 🏝️🏃‍♂️
 * Functional programming is one of the best things that could happend to code. ✨
 
-I have an interest in programming lenguages theory, logics and formal methods. Because of that, I have simpaty for languages that have a strong typing system (such as **Haskell**), logic programming (**PROLOG**) and proof asistants (**Coq**/**LEAND**). I do my best to understand the foundations of critic software and provide a framework for proofs within programs. I also respect the labor on optimization make by languages that access memory like **C** and **Rust**; I'm aware that well-verified code can be more optimal while doing seemingly risky things.
+I have an interest in programming lenguages theory, logics and formal methods. Because of that, I have interest for languages that have a strong typing system (such as **Haskell**), logic programming (**PROLOG**) and proof asistants (**Coq**/**LEAND**). I do my best to understand the foundations of critic software and provide a framework for proofs within programs. I also respect the labor on optimization make by languages that access memory like **C** and **Rust**; I'm aware that well-verified code can be more optimal while doing seemingly risky things.
 I'd done also use of **CSS/Python/HTML/React**/etc. because that's what's expected from a C.S. student, but I prefer another languages, I don't personally think that I'm bad at it, tho.
 
 Currently I'm working on my thesis and being a professor asistant at Facultad de Ciencias, UNAM, CDMX. We are also working on a club that uses formal methods to verify software.
